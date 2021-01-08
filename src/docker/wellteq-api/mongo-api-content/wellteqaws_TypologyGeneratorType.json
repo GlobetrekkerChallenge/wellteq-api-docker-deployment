@@ -1,0 +1,50 @@
+[
+  {
+    "_id": "Ea1yUgOZR1",
+    "_created_at": {"$date": "2019-09-18T06:38:43.247Z"},
+    "_updated_at": {"$date": "2019-09-18T06:38:43.247Z"},
+    "length": 2,
+    "name": "sequence",
+    "order": 5
+  },
+  {
+    "_id": "yXqVlnpcR5",
+    "_created_at": {"$date": "2019-09-18T06:38:43.246Z"},
+    "_updated_at": {"$date": "2019-09-18T06:38:43.246Z"},
+    "length": 3,
+    "name": "callToAction",
+    "order": 2
+  },
+  {
+    "_id": "my5j3Z4OMq",
+    "_created_at": {"$date": "2019-09-18T06:38:43.246Z"},
+    "_updated_at": {"$date": "2019-09-18T06:38:43.246Z"},
+    "length": 3,
+    "name": "contentType",
+    "order": 1
+  },
+  {
+    "_id": "yRyX7fRY2N",
+    "_created_at": {"$date": "2019-09-18T06:38:43.246Z"},
+    "_updated_at": {"$date": "2019-09-18T06:38:43.246Z"},
+    "length": 3,
+    "name": "toneFraming",
+    "order": 2
+  },
+  {
+    "_id": "hafpu9zJHR",
+    "_created_at": {"$date": "2019-09-18T06:38:43.247Z"},
+    "_updated_at": {"$date": "2019-09-18T06:38:43.247Z"},
+    "length": 3,
+    "name": "toneOfVoice",
+    "order": 4
+  },
+  {
+    "_id": "mUYRZNwphC",
+    "_created_at": {"$date": "2019-09-19T09:50:54.103Z"},
+    "_updated_at": {"$date": "2019-09-19T09:51:30.733Z"},
+    "length": 2,
+    "name": "mediaType",
+    "order": 6
+  }
+]

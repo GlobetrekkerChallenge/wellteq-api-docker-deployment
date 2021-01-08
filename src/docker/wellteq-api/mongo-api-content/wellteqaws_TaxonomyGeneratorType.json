@@ -1,0 +1,125 @@
+[
+  {
+    "_id": "COoI6mN7MJ",
+    "_created_at": {"$date": "2019-10-08T00:47:30.387Z"},
+    "_updated_at": {"$date": "2020-10-12T08:07:21.037Z"},
+    "enableForContent": true,
+    "enableForNotifications": false,
+    "enableForNudges": true,
+    "length": 3,
+    "name": "modifier",
+    "order": 8
+  },
+  {
+    "_id": "LgS6L5VieM",
+    "_created_at": {"$date": "2019-10-08T00:47:30.387Z"},
+    "_updated_at": {"$date": "2020-10-12T08:07:20.917Z"},
+    "enableForContent": true,
+    "enableForNotifications": false,
+    "enableForNudges": true,
+    "length": 3,
+    "name": "subSegment",
+    "order": 7
+  },
+  {
+    "_id": "EnLpv0wyNI",
+    "_created_at": {"$date": "2019-10-08T00:47:30.387Z"},
+    "_updated_at": {"$date": "2020-10-12T08:07:20.972Z"},
+    "enableForContent": true,
+    "enableForNotifications": false,
+    "enableForNudges": true,
+    "length": 3,
+    "name": "segment",
+    "order": 6
+  },
+  {
+    "_id": "z2Od7B8zRV",
+    "_created_at": {"$date": "2019-10-08T00:47:30.387Z"},
+    "_updated_at": {"$date": "2020-10-12T08:07:20.902Z"},
+    "enableForContent": true,
+    "enableForNotifications": false,
+    "enableForNudges": true,
+    "length": 3,
+    "name": "attribute",
+    "order": 5,
+    "parentGenerator": "dimension"
+  },
+  {
+    "_id": "hS29P1C0oE",
+    "_created_at": {"$date": "2019-10-08T00:47:30.388Z"},
+    "_updated_at": {"$date": "2020-10-12T08:07:20.959Z"},
+    "enableForContent": true,
+    "enableForNotifications": false,
+    "enableForNudges": true,
+    "length": 3,
+    "name": "dimension",
+    "order": 4,
+    "parentGenerator": "subsetConcept"
+  },
+  {
+    "_id": "3nVRMhYy18",
+    "_created_at": {"$date": "2019-10-08T00:47:30.388Z"},
+    "_updated_at": {"$date": "2020-10-12T08:07:20.931Z"},
+    "enableForContent": true,
+    "enableForNotifications": false,
+    "enableForNudges": true,
+    "length": 3,
+    "name": "subsetConcept",
+    "order": 3
+  },
+  {
+    "_id": "rdjtBFZvBW",
+    "_created_at": {"$date": "2019-10-08T00:47:30.388Z"},
+    "_updated_at": {"$date": "2020-10-12T08:07:20.946Z"},
+    "enableForContent": true,
+    "enableForNotifications": false,
+    "enableForNudges": true,
+    "length": 3,
+    "name": "clientSegment",
+    "order": 2
+  },
+  {
+    "_id": "lI5ojK0tEp",
+    "_created_at": {"$date": "2019-10-08T00:47:30.388Z"},
+    "_updated_at": {"$date": "2020-10-12T08:07:20.986Z"},
+    "enableForContent": true,
+    "enableForNotifications": false,
+    "enableForNudges": true,
+    "length": 5,
+    "name": "owner",
+    "order": 1
+  },
+  {
+    "_id": "6fwFV0pEyc",
+    "_created_at": {"$date": "2019-10-30T02:06:46.496Z"},
+    "_updated_at": {"$date": "2020-10-12T08:07:20.998Z"},
+    "enableForContent": true,
+    "enableForNotifications": false,
+    "enableForNudges": true,
+    "length": 2,
+    "name": "stage",
+    "order": 10
+  },
+  {
+    "_id": "8gTWoflu8C",
+    "_created_at": {"$date": "2019-10-31T07:46:04.284Z"},
+    "_updated_at": {"$date": "2020-10-12T08:07:21.011Z"},
+    "enableForContent": true,
+    "enableForNotifications": false,
+    "enableForNudges": true,
+    "length": 2,
+    "name": "timing",
+    "order": 9
+  },
+  {
+    "_id": "4bVdHtXjhB",
+    "_created_at": {"$date": "2020-09-25T04:18:12.975Z"},
+    "_updated_at": {"$date": "2020-10-12T08:07:21.024Z"},
+    "enableForContent": false,
+    "enableForNotifications": true,
+    "enableForNudges": false,
+    "length": 3,
+    "name": "microResponse",
+    "order": 11
+  }
+]

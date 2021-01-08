@@ -1,0 +1,17 @@
+buildscript {
+    repositories {
+        maven {
+            name = 'artifactoryMaven'
+            url = 'https://brightsparkartifacts.jfrog.io/artifactory/maven'
+        }
+    }
+
+    dependencies {
+        classpath 'org.codehaus.groovy:groovy-all:3.0.6@pom'
+        classpath 'com.brightspark:bootstrap:7.0.0-SNAPSHOT'
+    }
+}
+
+apply plugin: 'com.brightspark.bootstrap-loader'
+
+rootProject.name = 'wellteq-api-docker-deployment'

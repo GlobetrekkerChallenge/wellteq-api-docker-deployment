@@ -1,0 +1,102 @@
+bootstrapLoader {
+    brightsparkBootstrap {
+        projectVersion = '1.0.23'
+        projectGroup = 'com.wellteq.deployment.api'
+        bootstrapPlugins {
+            javaGradlePlugin {
+                enabled = true
+            }
+            mavenPublish {
+                enabled = true
+            }
+            dockerBSExt {
+                version = '3.0.0-SNAPSHOT'
+                generalDockerConfiguration {
+                    taskGroup = 'docker - mongo'
+                    taskPrefix = 'mongoDatabase'
+                    imageGroup = 'wellteq-public'
+                    imageName = 'wellteq-mongo-database'
+                    pushImageWithProjectPublish = true
+                    standaloneDockerImageFilePath = 'src/docker/mongo-database/Dockerfile'
+                    buildFileDependency 'src/docker/mongo-database/mongod.conf'
+                }
+                generalDockerConfiguration {
+                    taskGroup = 'docker - survey-mysql'
+                    taskPrefix = 'surveyMySQLDatabase'
+                    imageGroup = 'wellteq-public'
+                    imageName = 'wellteq-survey-mysql-database'
+                    pushImageWithProjectPublish = true
+                    standaloneDockerImageFilePath = 'src/docker/wellteq-survey-mysql/Dockerfile'
+                    buildFileDependency 'src/docker/wellteq-survey-mysql/wellteq-survey-initialize-database.sql'
+                }
+                generalDockerConfiguration {
+                    taskGroup = 'docker - central-mysql'
+                    taskPrefix = 'centralMySQLDatabase'
+                    imageGroup = 'wellteq-public'
+                    imageName = 'wellteq-central-mysql-database'
+                    pushImageWithProjectPublish = true
+                    standaloneDockerImageFilePath = 'src/docker/wellteq-central-mysql/Dockerfile'
+                    buildFileDependency 'src/docker/wellteq-central-mysql/wellteq-central-initialize-database.sql'
+                }
+                generalDockerConfiguration {
+                    taskGroup = 'docker - analytics-mysql'
+                    taskPrefix = 'analyticsMySQLDatabase'
+                    imageGroup = 'wellteq-public'
+                    imageName = 'wellteq-analytics-mysql-database'
+                    pushImageWithProjectPublish = true
+                    standaloneDockerImageFilePath = 'src/docker/wellteq-analytics-mysql/Dockerfile'
+                }
+                generalDockerConfiguration {
+                    taskGroup = 'docker - wellteq-api'
+                    taskPrefix = 'wellteqApi'
+                    imageGroup = 'wellteq-public'
+                    imageName = 'wellteq-api'
+                    pushImageWithProjectPublish = true
+                    standaloneDockerImageFilePath = 'src/docker/wellteq-api/Dockerfile'
+                    buildFileDependency 'src/docker/wellteq-api/wellteq-api.zip'
+                }
+                generalDockerConfiguration {
+                    taskGroup = 'docker - wellteq-survey-api'
+                    taskPrefix = 'wellteqSurveyApi'
+                    imageGroup = 'wellteq-public'
+                    imageName = 'wellteq-survey-api'
+                    pushImageWithProjectPublish = true
+                    standaloneDockerImageFilePath = 'src/docker/wellteq-survey-api/Dockerfile'
+                    buildFileDependency 'src/docker/wellteq-survey-api/survey-api.zip'
+                }
+                generalDockerConfiguration {
+                    taskGroup = 'docker - wellteq-proxy-api'
+                    taskPrefix = 'wellteqProxyApi'
+                    imageGroup = 'wellteq-public'
+                    imageName = 'wellteq-proxy-api'
+                    pushImageWithProjectPublish = true
+                    standaloneDockerImageFilePath = 'src/docker/wellteq-proxy-api/Dockerfile'
+                    buildFileDependency 'src/docker/wellteq-proxy-api/api-proxy.zip'
+                }
+                generalDockerConfiguration {
+                    taskGroup = 'docker - wellteq-central-user-api'
+                    taskPrefix = 'wellteqCentralUserApi'
+                    imageGroup = 'wellteq-public'
+                    imageName = 'wellteq-central-user-api'
+                    pushImageWithProjectPublish = true
+                    standaloneDockerImageFilePath = 'src/docker/wellteq-central-user-api/Dockerfile'
+                    buildFileDependency 'src/docker/wellteq-central-user-api/central-user-api.zip'
+                }
+                generalDockerConfiguration {
+                    taskGroup = 'docker - wellteq-feed-api'
+                    taskPrefix = 'wellteqFeedApi'
+                    imageGroup = 'wellteq-public'
+                    imageName = 'wellteq-feed-api'
+                    pushImageWithProjectPublish = true
+                    standaloneDockerImageFilePath = 'src/docker/wellteq-feed-api/Dockerfile'
+                    buildFileDependency 'src/docker/wellteq-feed-api/feed-api.zip'
+                }
+            }
+        }
+    }
+}
+
+
+wrapper {
+    gradleVersion = "6.7"
+}

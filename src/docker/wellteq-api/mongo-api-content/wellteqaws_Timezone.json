@@ -1,0 +1,1730 @@
+[
+  {
+    "_id": "09Hxs3fp8V",
+    "_created_at": {"$date": "2015-08-13T03:29:27.814Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:27.814Z"},
+    "abbrev": "SAST",
+    "name": "South Africa Standard Time",
+    "offset": 2
+  },
+  {
+    "_id": "0A5BTipuI2",
+    "_created_at": {"$date": "2015-08-13T03:29:28.001Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:28.001Z"},
+    "abbrev": "CXT",
+    "name": "Christmas Island Time",
+    "offset": 7
+  },
+  {
+    "_id": "0CzDAq2Cl4",
+    "_created_at": {"$date": "2015-08-13T03:29:27.814Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:27.814Z"},
+    "abbrev": "C",
+    "name": "Charlie Time Zone",
+    "offset": 3
+  },
+  {
+    "_id": "0eip9Iwcuc",
+    "_created_at": {"$date": "2015-08-13T03:29:28.326Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:28.326Z"},
+    "abbrev": "M",
+    "name": "Mike Time Zone",
+    "offset": 12
+  },
+  {
+    "_id": "0tUlN7kSGM",
+    "_created_at": {"$date": "2015-08-13T03:29:27.889Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:27.889Z"},
+    "abbrev": "IDT",
+    "name": "Israel Daylight Time",
+    "offset": 3
+  },
+  {
+    "_id": "1Lb9uEu67H",
+    "_created_at": {"$date": "2015-08-13T03:29:27.131Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:27.131Z"},
+    "abbrev": "EST",
+    "name": "Eastern Standard Time",
+    "offset": -5
+  },
+  {
+    "_id": "1T1mBAIzoL",
+    "_created_at": {"$date": "2015-08-13T03:29:27.814Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:27.814Z"},
+    "abbrev": "WST",
+    "name": "Western Sahara Summer Time",
+    "offset": 1
+  },
+  {
+    "_id": "1XzxMCw7lx",
+    "_created_at": {"$date": "2015-08-13T03:29:28.187Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:28.187Z"},
+    "abbrev": "ChST",
+    "name": "Chamorro Standard Time",
+    "offset": 10
+  },
+  {
+    "_id": "1aPN6Bczfj",
+    "_created_at": {"$date": "2015-08-13T03:29:27.132Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:27.132Z"},
+    "abbrev": "VET",
+    "name": "Venezuelan Standard Time",
+    "offset": -4.5
+  },
+  {
+    "_id": "1awJTgjqFf",
+    "_created_at": {"$date": "2015-08-13T03:29:27.998Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:27.998Z"},
+    "abbrev": "ALMT",
+    "name": "Alma-Ata Time",
+    "offset": 6
+  },
+  {
+    "_id": "1qG1AtxBTd",
+    "_created_at": {"$date": "2015-08-13T03:29:28.006Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:28.006Z"},
+    "abbrev": "TFT",
+    "name": "French Southern and Antarctic Time",
+    "offset": 5
+  },
+  {
+    "_id": "1vofjvkysJ",
+    "_created_at": {"$date": "2015-08-13T03:29:28.328Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:28.328Z"},
+    "abbrev": "WFT",
+    "name": "Wallis and Futuna Time",
+    "offset": 12
+  },
+  {
+    "_id": "2Gmv8FQl9A",
+    "_created_at": {"$date": "2015-08-13T03:29:26.912Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:26.912Z"},
+    "abbrev": "NUT",
+    "name": "Niue Time",
+    "offset": -11
+  },
+  {
+    "_id": "3LE7lAYEvJ",
+    "_created_at": {"$date": "2015-08-13T03:29:28.116Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:28.116Z"},
+    "abbrev": "WIB",
+    "name": "Western Indonesian Time",
+    "offset": 7
+  },
+  {
+    "_id": "3PPJgzetUp",
+    "_created_at": {"$date": "2015-08-13T03:29:28.115Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:28.115Z"},
+    "abbrev": "AWDT",
+    "name": "Australian Western Daylight Time",
+    "offset": 9
+  },
+  {
+    "_id": "42lbLKMWdP",
+    "_created_at": {"$date": "2015-08-13T03:29:27.223Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:27.223Z"},
+    "abbrev": "PMST",
+    "name": "Pierre & Miquelon Standard Time",
+    "offset": -3
+  },
+  {
+    "_id": "4MicYnBvw0",
+    "_created_at": {"$date": "2015-08-13T03:29:27.813Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:27.813Z"},
+    "abbrev": "EET",
+    "name": "Eastern European Time",
+    "offset": 2
+  },
+  {
+    "_id": "54Id3gz6OJ",
+    "_created_at": {"$date": "2015-08-13T03:29:26.913Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:26.913Z"},
+    "abbrev": "HAP",
+    "name": "Heure Avancée du Pacifique",
+    "offset": -7
+  },
+  {
+    "_id": "5GYXNbstt1",
+    "_created_at": {"$date": "2015-08-13T03:29:27.222Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:27.222Z"},
+    "abbrev": "HNT",
+    "name": "Heure Normale de Terre-Neuve",
+    "offset": -3.5
+  },
+  {
+    "_id": "5sJ4kXTMBG",
+    "_created_at": {"$date": "2015-08-13T03:29:27.721Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:27.721Z"},
+    "abbrev": "WGT",
+    "name": "West Greenland Time",
+    "offset": -3
+  },
+  {
+    "_id": "6UC0NmMszO",
+    "_created_at": {"$date": "2015-08-13T03:29:27.999Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:27.999Z"},
+    "abbrev": "PKT",
+    "name": "Pakistan Standard Time",
+    "offset": 5
+  },
+  {
+    "_id": "7TxOUkIBxj",
+    "_created_at": {"$date": "2015-08-13T03:29:27.889Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:27.889Z"},
+    "abbrev": "AMT",
+    "name": "Armenia Time",
+    "offset": 4
+  },
+  {
+    "_id": "7Zg99jMV2w",
+    "_created_at": {"$date": "2015-08-13T03:29:28.328Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:28.328Z"},
+    "abbrev": "PETT",
+    "name": "Kamchatka Time",
+    "offset": 12
+  },
+  {
+    "_id": "7mhot20YcO",
+    "_created_at": {"$date": "2015-08-13T03:29:28.326Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:28.326Z"},
+    "abbrev": "GILT",
+    "name": "Gilbert Island Time",
+    "offset": 12
+  },
+  {
+    "_id": "8JjAjzVryI",
+    "_created_at": {"$date": "2015-08-13T03:29:27.813Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:27.813Z"},
+    "abbrev": "Z",
+    "name": "Zulu Time Zone",
+    "offset": 0
+  },
+  {
+    "_id": "8TcfZMWKWE",
+    "_created_at": {"$date": "2015-08-13T03:29:27.812Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:27.812Z"},
+    "abbrev": "CET",
+    "name": "Central European Time",
+    "offset": 1
+  },
+  {
+    "_id": "8kqF7BjQou",
+    "_created_at": {"$date": "2015-08-13T03:29:27.721Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:27.721Z"},
+    "abbrev": "UYST",
+    "name": "Uruguay Summer Time",
+    "offset": -2
+  },
+  {
+    "_id": "9JymPkSVB9",
+    "_created_at": {"$date": "2015-08-13T03:29:28.008Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:28.008Z"},
+    "abbrev": "YEKST",
+    "name": "Yekaterinburg Summer Time",
+    "offset": 6
+  },
+  {
+    "_id": "9Tv24HdHzp",
+    "_created_at": {"$date": "2015-08-13T03:29:27.719Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:27.719Z"},
+    "abbrev": "SRT",
+    "name": "Suriname Time",
+    "offset": -3
+  },
+  {
+    "_id": "9bPNBfmbcJ",
+    "_created_at": {"$date": "2015-08-13T03:29:27.999Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:27.999Z"},
+    "abbrev": "BST",
+    "name": "Bangladesh Standard Time",
+    "offset": 6
+  },
+  {
+    "_id": "9wlJtRKrxP",
+    "_created_at": {"$date": "2015-08-13T03:29:28.187Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:28.187Z"},
+    "abbrev": "WIT",
+    "name": "Eastern Indonesian Time",
+    "offset": 9
+  },
+  {
+    "_id": "AFuKv7kajR",
+    "_created_at": {"$date": "2015-08-13T03:29:28.186Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:28.186Z"},
+    "abbrev": "LHST",
+    "name": "Lord Howe Standard Time",
+    "offset": 10.5
+  },
+  {
+    "_id": "AIAjGM32bz",
+    "_created_at": {"$date": "2015-08-13T03:29:28.596Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:28.596Z"},
+    "abbrev": "FJST",
+    "name": "Fiji Summer Time",
+    "offset": 13
+  },
+  {
+    "_id": "BPdi6KiFYW",
+    "_created_at": {"$date": "2015-08-13T03:29:27.130Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:27.130Z"},
+    "abbrev": "EAST",
+    "name": "Easter Island Standard Time",
+    "offset": -6
+  },
+  {
+    "_id": "BtJ5Ko8bmj",
+    "_created_at": {"$date": "2015-08-13T03:29:28.327Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:28.327Z"},
+    "abbrev": "ANAST",
+    "name": "Anadyr Summer Time",
+    "offset": 12
+  },
+  {
+    "_id": "CXmeknn1Ib",
+    "_created_at": {"$date": "2015-08-13T03:29:27.890Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:27.890Z"},
+    "abbrev": "GET",
+    "name": "Georgia Standard Time",
+    "offset": 4
+  },
+  {
+    "_id": "Cf5IeXQ1Kq",
+    "_created_at": {"$date": "2015-08-13T03:29:27.721Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:27.721Z"},
+    "abbrev": "UYT",
+    "name": "Uruguay Time",
+    "offset": -3
+  },
+  {
+    "_id": "D7msXJqzhz",
+    "_created_at": {"$date": "2015-08-13T03:29:28.114Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:28.114Z"},
+    "abbrev": "WITA",
+    "name": "Central Indonesian Time",
+    "offset": 8
+  },
+  {
+    "_id": "DLCWwdBCuD",
+    "_created_at": {"$date": "2015-08-13T03:29:28.186Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:28.186Z"},
+    "abbrev": "IRKST",
+    "name": "Irkutsk Summer Time",
+    "offset": 9
+  },
+  {
+    "_id": "DP6LThorpR",
+    "_created_at": {"$date": "2015-08-13T03:29:27.131Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:27.131Z"},
+    "abbrev": "R",
+    "name": "Romeo Time Zone",
+    "offset": -5
+  },
+  {
+    "_id": "DmWiK3QoyJ",
+    "_created_at": {"$date": "2015-08-13T03:29:28.116Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:28.116Z"},
+    "abbrev": "H",
+    "name": "Hotel Time Zone",
+    "offset": 8
+  },
+  {
+    "_id": "DrfnQ8PcbD",
+    "_created_at": {"$date": "2015-08-13T03:29:28.329Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:28.329Z"},
+    "abbrev": "NFT",
+    "name": "Norfolk Time",
+    "offset": 11.5
+  },
+  {
+    "_id": "DryF94H826",
+    "_created_at": {"$date": "2015-08-13T03:29:28.186Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:28.186Z"},
+    "abbrev": "YAKT",
+    "name": "Yakutsk Time",
+    "offset": 10
+  },
+  {
+    "_id": "F42xivSFuD",
+    "_created_at": {"$date": "2015-08-13T03:29:27.890Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:27.890Z"},
+    "abbrev": "KUYT",
+    "name": "Kuybyshev Time",
+    "offset": 4
+  },
+  {
+    "_id": "FeBSM0yoWb",
+    "_created_at": {"$date": "2015-08-13T03:29:26.957Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:26.957Z"},
+    "abbrev": "X",
+    "name": "X-ray Time Zone",
+    "offset": -11
+  },
+  {
+    "_id": "FtscMb38Yv",
+    "_created_at": {"$date": "2015-08-13T03:29:28.114Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:28.114Z"},
+    "abbrev": "OMST",
+    "name": "Omsk Standard Time",
+    "offset": 7
+  },
+  {
+    "_id": "Fxss7EU5TE",
+    "_created_at": {"$date": "2015-08-13T03:29:28.329Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:28.329Z"},
+    "abbrev": "PONT",
+    "name": "Pohnpei Standard Time",
+    "offset": 11
+  },
+  {
+    "_id": "GQniq1a1nm",
+    "_created_at": {"$date": "2015-08-13T03:29:27.131Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:27.131Z"},
+    "abbrev": "COT",
+    "name": "Colombia Time",
+    "offset": -5
+  },
+  {
+    "_id": "GpCAy8OcCh",
+    "_created_at": {"$date": "2015-08-13T03:29:28.329Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:28.329Z"},
+    "abbrev": "NZST",
+    "name": "New Zealand Standard Time",
+    "offset": 12
+  },
+  {
+    "_id": "GsVtUo99Te",
+    "_created_at": {"$date": "2015-08-13T03:29:28.188Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:28.188Z"},
+    "abbrev": "AEST",
+    "name": "Australian Eastern Standard Time",
+    "offset": 10
+  },
+  {
+    "_id": "H5PjgSetRJ",
+    "_created_at": {"$date": "2015-08-13T03:29:27.888Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:27.888Z"},
+    "abbrev": "IRDT",
+    "name": "Iran Daylight Time",
+    "offset": 4.5
+  },
+  {
+    "_id": "H7hQNE1fhr",
+    "_created_at": {"$date": "2015-08-13T03:29:26.913Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:26.913Z"},
+    "abbrev": "CKT",
+    "name": "Cook Island Time",
+    "offset": -10
+  },
+  {
+    "_id": "HUt3SBQA0G",
+    "_created_at": {"$date": "2015-08-13T03:29:28.598Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:28.598Z"},
+    "abbrev": "CHADT",
+    "name": "Chatham Island Daylight Time",
+    "offset": 13.75
+  },
+  {
+    "_id": "HcvVs1NdPu",
+    "_created_at": {"$date": "2015-08-13T03:29:27.222Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:27.222Z"},
+    "abbrev": "ADT",
+    "name": "Atlantic Daylight Time",
+    "offset": -3
+  },
+  {
+    "_id": "HfhyardkB8",
+    "_created_at": {"$date": "2015-08-13T03:29:27.891Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:27.891Z"},
+    "abbrev": "E",
+    "name": "Echo Time Zone",
+    "offset": 5
+  },
+  {
+    "_id": "HinBF0trwl",
+    "_created_at": {"$date": "2015-08-13T03:29:28.329Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:28.329Z"},
+    "abbrev": "VLAT",
+    "name": "Vladivostok Time",
+    "offset": 11
+  },
+  {
+    "_id": "HnS1LLVfCv",
+    "_created_at": {"$date": "2015-08-13T03:29:28.114Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:28.114Z"},
+    "abbrev": "KRAST",
+    "name": "Krasnoyarsk Summer Time",
+    "offset": 8
+  },
+  {
+    "_id": "I0gdaMpFxk",
+    "_created_at": {"$date": "2015-08-13T03:29:27.889Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:27.889Z"},
+    "abbrev": "MSK",
+    "name": "Moscow Standard Time",
+    "offset": 4
+  },
+  {
+    "_id": "I7SP2616Qk",
+    "_created_at": {"$date": "2015-08-13T03:29:27.131Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:27.131Z"},
+    "abbrev": "MDT",
+    "name": "Mountain Daylight Time",
+    "offset": -6
+  },
+  {
+    "_id": "IrRDmvD6cd",
+    "_created_at": {"$date": "2015-08-13T03:29:27.222Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:27.222Z"},
+    "abbrev": "NST",
+    "name": "Newfoundland Standard Time",
+    "offset": -3.5
+  },
+  {
+    "_id": "JCI96W34uK",
+    "_created_at": {"$date": "2015-08-13T03:29:27.722Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:27.722Z"},
+    "abbrev": "NDT",
+    "name": "Newfoundland Daylight Time",
+    "offset": -2.5
+  },
+  {
+    "_id": "JzeKcGCVu5",
+    "_created_at": {"$date": "2015-08-13T03:29:28.188Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:28.188Z"},
+    "abbrev": "LHDT",
+    "name": "Lord Howe Daylight Time",
+    "offset": 11
+  },
+  {
+    "_id": "KE2goPqmtw",
+    "_created_at": {"$date": "2015-08-13T03:29:27.723Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:27.723Z"},
+    "abbrev": "PMDT",
+    "name": "Pierre & Miquelon Daylight Time",
+    "offset": -2
+  },
+  {
+    "_id": "KolZUo2ZeT",
+    "_created_at": {"$date": "2015-08-13T03:29:28.188Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:28.188Z"},
+    "abbrev": "PGT",
+    "name": "Papua New Guinea Time",
+    "offset": 10
+  },
+  {
+    "_id": "KsMgVqtjkH",
+    "_created_at": {"$date": "2015-08-13T03:29:28.187Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:28.187Z"},
+    "abbrev": "TLT",
+    "name": "East Timor Time",
+    "offset": 9
+  },
+  {
+    "_id": "L6BwDUPWvQ",
+    "_created_at": {"$date": "2015-08-13T03:29:26.906Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:26.906Z"},
+    "abbrev": "U",
+    "name": "Uniform Time Zone",
+    "offset": -8
+  },
+  {
+    "_id": "LA34bVcYSg",
+    "_created_at": {"$date": "2015-08-13T03:29:27.222Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:27.222Z"},
+    "abbrev": "P",
+    "name": "Papa Time Zone",
+    "offset": -3
+  },
+  {
+    "_id": "LBwjeqkIcc",
+    "_created_at": {"$date": "2015-08-13T03:29:27.813Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:27.813Z"},
+    "abbrev": "WESZ",
+    "name": "Westeuropäische Sommerzeit",
+    "offset": 1
+  },
+  {
+    "_id": "LCXTUirYRp",
+    "_created_at": {"$date": "2015-08-13T03:29:28.187Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:28.187Z"},
+    "abbrev": "KST",
+    "name": "Korea Standard Time",
+    "offset": 9
+  },
+  {
+    "_id": "LhKTkObanZ",
+    "_created_at": {"$date": "2015-08-13T03:29:27.889Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:27.889Z"},
+    "abbrev": "EEST",
+    "name": "Eastern European Summer Time",
+    "offset": 3
+  },
+  {
+    "_id": "LlLeKLEAdh",
+    "_created_at": {"$date": "2015-08-13T03:29:28.329Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:28.329Z"},
+    "abbrev": "NCT",
+    "name": "New Caledonia Time",
+    "offset": 11
+  },
+  {
+    "_id": "LzwlNvQkxP",
+    "_created_at": {"$date": "2015-08-13T03:29:27.891Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:27.891Z"},
+    "abbrev": "AFT",
+    "name": "Afghanistan Time",
+    "offset": 4.5
+  },
+  {
+    "_id": "M1x0454iI7",
+    "_created_at": {"$date": "2015-08-13T03:29:27.890Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:27.890Z"},
+    "abbrev": "AMST",
+    "name": "Armenia Summer Time",
+    "offset": 5
+  },
+  {
+    "_id": "MObp98bFgT",
+    "_created_at": {"$date": "2015-08-13T03:29:27.726Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:27.726Z"},
+    "abbrev": "UTC",
+    "name": "Coordinated Universal Time",
+    "offset": 0
+  },
+  {
+    "_id": "Maib7arPJ2",
+    "_created_at": {"$date": "2015-08-13T03:29:27.221Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:27.221Z"},
+    "abbrev": "CDT",
+    "name": "Cuba Daylight Time",
+    "offset": -4
+  },
+  {
+    "_id": "OCCHikHwcV",
+    "_created_at": {"$date": "2015-08-13T03:29:26.902Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:26.902Z"},
+    "abbrev": "GAMT",
+    "name": "Gambier Time",
+    "offset": -9
+  },
+  {
+    "_id": "ON8VMZyZSs",
+    "_created_at": {"$date": "2015-08-13T03:29:27.721Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:27.721Z"},
+    "abbrev": "WGST",
+    "name": "Western Greenland Summer Time",
+    "offset": -2
+  },
+  {
+    "_id": "OXNPyw2tbW",
+    "_created_at": {"$date": "2015-08-13T03:29:28.115Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:28.115Z"},
+    "abbrev": "AWST",
+    "name": "Australian Western Standard Time",
+    "offset": 8
+  },
+  {
+    "_id": "Oz6m1Dfv4f",
+    "_created_at": {"$date": "2015-08-13T03:29:27.723Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:27.723Z"},
+    "abbrev": "GMT",
+    "name": "Greenwich Mean Time",
+    "offset": 0
+  },
+  {
+    "_id": "PLYWePIlG2",
+    "_created_at": {"$date": "2015-08-13T03:29:28.115Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:28.115Z"},
+    "abbrev": "CAST",
+    "name": "Casey Time",
+    "offset": 8
+  },
+  {
+    "_id": "PUAwkjCHQA",
+    "_created_at": {"$date": "2015-08-13T03:29:27.132Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:27.132Z"},
+    "abbrev": "S",
+    "name": "Sierra Time Zone",
+    "offset": -6
+  },
+  {
+    "_id": "PYOUZ2ccPe",
+    "_created_at": {"$date": "2015-08-13T03:29:27.223Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:27.223Z"},
+    "abbrev": "BRT",
+    "name": "Brasília time",
+    "offset": -3
+  },
+  {
+    "_id": "QLmbAlJZPF",
+    "_created_at": {"$date": "2015-08-13T03:29:27.814Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:27.814Z"},
+    "abbrev": "B",
+    "name": "Bravo Time Zone",
+    "offset": 2
+  },
+  {
+    "_id": "QSQfv4GnEy",
+    "_created_at": {"$date": "2015-08-13T03:29:27.812Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:27.812Z"},
+    "abbrev": "CEST",
+    "name": "Central European Summer Time",
+    "offset": 2
+  },
+  {
+    "_id": "QTBRDufaLw",
+    "_created_at": {"$date": "2015-08-13T03:29:28.328Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:28.328Z"},
+    "abbrev": "PETST",
+    "name": "Kamchatka Summer Time",
+    "offset": 12
+  },
+  {
+    "_id": "Qc20rvEO8C",
+    "_created_at": {"$date": "2015-08-13T03:29:27.812Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:27.812Z"},
+    "abbrev": "WEZ",
+    "name": "Westeuropäische Zeit",
+    "offset": 0
+  },
+  {
+    "_id": "QoNLpsq4n1",
+    "_created_at": {"$date": "2015-08-13T03:29:27.222Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:27.222Z"},
+    "abbrev": "HAA",
+    "name": "Heure Avancée de l'Atlantique",
+    "offset": -3
+  },
+  {
+    "_id": "R2QfmO2OoE",
+    "_created_at": {"$date": "2015-08-13T03:29:27.813Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:27.813Z"},
+    "abbrev": "IST",
+    "name": "Israel Standard Time",
+    "offset": 2
+  },
+  {
+    "_id": "R4YGXENPQr",
+    "_created_at": {"$date": "2015-08-13T03:29:28.004Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:28.004Z"},
+    "abbrev": "TMT",
+    "name": "Turkmenistan Time",
+    "offset": 5
+  },
+  {
+    "_id": "RJJSrocSku",
+    "_created_at": {"$date": "2015-08-13T03:29:27.812Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:27.812Z"},
+    "abbrev": "A",
+    "name": "Alpha Time Zone",
+    "offset": 1
+  },
+  {
+    "_id": "RlqTSn8Ian",
+    "_created_at": {"$date": "2015-08-13T03:29:28.115Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:28.115Z"},
+    "abbrev": "HKT",
+    "name": "Hong Kong Time",
+    "offset": 8
+  },
+  {
+    "_id": "Roq7S9DR9Z",
+    "_created_at": {"$date": "2015-08-13T03:29:26.913Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:26.913Z"},
+    "abbrev": "HAST",
+    "name": "Hawaii-Aleutian Standard Time",
+    "offset": -10
+  },
+  {
+    "_id": "S3M3dpoHtZ",
+    "_created_at": {"$date": "2015-08-13T03:29:27.131Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:27.131Z"},
+    "abbrev": "MST",
+    "name": "Mountain Standard Time",
+    "offset": -7
+  },
+  {
+    "_id": "SFlN2AzG0y",
+    "_created_at": {"$date": "2015-08-13T03:29:27.890Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:27.890Z"},
+    "abbrev": "D",
+    "name": "Delta Time Zone",
+    "offset": 4
+  },
+  {
+    "_id": "SGZ2SvxNpe",
+    "_created_at": {"$date": "2015-08-13T03:29:27.222Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:27.222Z"},
+    "abbrev": "Q",
+    "name": "Quebec Time Zone",
+    "offset": -4
+  },
+  {
+    "_id": "SgbC4SvGXT",
+    "_created_at": {"$date": "2015-08-13T03:29:27.220Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:27.220Z"},
+    "abbrev": "GYT",
+    "name": "Guyana Time",
+    "offset": -4
+  },
+  {
+    "_id": "SjdlWNZ6XD",
+    "_created_at": {"$date": "2015-08-13T03:29:28.597Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:28.597Z"},
+    "abbrev": "NZDT",
+    "name": "New Zealand Daylight Time",
+    "offset": 13
+  },
+  {
+    "_id": "T8LoPvCkyj",
+    "_created_at": {"$date": "2015-08-13T03:29:28.115Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:28.115Z"},
+    "abbrev": "OMSST",
+    "name": "Omsk Summer Time",
+    "offset": 7
+  },
+  {
+    "_id": "U3cEkucWVK",
+    "_created_at": {"$date": "2015-08-13T03:29:28.328Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:28.328Z"},
+    "abbrev": "MAGST",
+    "name": "Magadan Summer Time",
+    "offset": 12
+  },
+  {
+    "_id": "UCWGbq6cCj",
+    "_created_at": {"$date": "2015-08-13T03:29:27.722Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:27.722Z"},
+    "abbrev": "CVT",
+    "name": "Cape Verde Time",
+    "offset": -1
+  },
+  {
+    "_id": "UKPyG1Og5G",
+    "_created_at": {"$date": "2015-08-13T03:29:27.891Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:27.891Z"},
+    "abbrev": "AQTT",
+    "name": "Aqtobe Time",
+    "offset": 5
+  },
+  {
+    "_id": "VJrK6nGZ6b",
+    "_created_at": {"$date": "2015-08-13T03:29:26.916Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:26.916Z"},
+    "abbrev": "PST",
+    "name": "Pacific Standard Time",
+    "offset": -8
+  },
+  {
+    "_id": "Vf7m5s7W8M",
+    "_created_at": {"$date": "2015-08-13T03:29:27.813Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:27.813Z"},
+    "abbrev": "MESZ",
+    "name": "Mitteleuropäische Sommerzeit",
+    "offset": 2
+  },
+  {
+    "_id": "VwrdOVaq2h",
+    "_created_at": {"$date": "2015-08-13T03:29:28.327Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:28.327Z"},
+    "abbrev": "FJT",
+    "name": "Fiji Time",
+    "offset": 12
+  },
+  {
+    "_id": "W2I7G04Rs2",
+    "_created_at": {"$date": "2015-08-13T03:29:27.890Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:27.890Z"},
+    "abbrev": "AZST",
+    "name": "Azerbaijan Summer Time",
+    "offset": 5
+  },
+  {
+    "_id": "XQ4WWb1VJx",
+    "_created_at": {"$date": "2015-08-13T03:29:28.188Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:28.188Z"},
+    "abbrev": "IRKT",
+    "name": "Irkutsk Time",
+    "offset": 9
+  },
+  {
+    "_id": "XdZHzySOtp",
+    "_created_at": {"$date": "2015-08-13T03:29:28.188Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:28.188Z"},
+    "abbrev": "JST",
+    "name": "Japan Standard Time",
+    "offset": 9
+  },
+  {
+    "_id": "XfbwYV2pH2",
+    "_created_at": {"$date": "2015-08-13T03:29:27.723Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:27.723Z"},
+    "abbrev": "AZOST",
+    "name": "Azores Summer Time",
+    "offset": 0
+  },
+  {
+    "_id": "XqRwTCJFxZ",
+    "_created_at": {"$date": "2015-08-13T03:29:28.004Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:28.004Z"},
+    "abbrev": "UZT",
+    "name": "Uzbekistan Time",
+    "offset": 5
+  },
+  {
+    "_id": "YE68jqikCf",
+    "_created_at": {"$date": "2015-08-13T03:29:27.221Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:27.221Z"},
+    "abbrev": "CLT",
+    "name": "Chile Standard Time",
+    "offset": -4
+  },
+  {
+    "_id": "YFl0Pymaol",
+    "_created_at": {"$date": "2015-08-13T03:29:28.114Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:28.114Z"},
+    "abbrev": "PHT",
+    "name": "Philippine Time",
+    "offset": 8
+  },
+  {
+    "_id": "Yxkmiw1kqO",
+    "_created_at": {"$date": "2015-08-13T03:29:27.129Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:27.129Z"},
+    "abbrev": "ECT",
+    "name": "Ecuador Time",
+    "offset": -5
+  },
+  {
+    "_id": "YxzBWRRzkY",
+    "_created_at": {"$date": "2015-08-13T03:29:28.009Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:28.009Z"},
+    "abbrev": "NOVT",
+    "name": "Novosibirsk Time",
+    "offset": 6
+  },
+  {
+    "_id": "Zd7JoUt9Vu",
+    "_created_at": {"$date": "2015-08-13T03:29:27.222Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:27.222Z"},
+    "abbrev": "PYT",
+    "name": "Paraguay Time",
+    "offset": -4
+  },
+  {
+    "_id": "ZdeJWEjVnW",
+    "_created_at": {"$date": "2015-08-13T03:29:27.130Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:27.130Z"},
+    "abbrev": "HAR",
+    "name": "Heure Avancée des Rocheuses",
+    "offset": -6
+  },
+  {
+    "_id": "ZjM9GBBpic",
+    "_created_at": {"$date": "2015-08-13T03:29:27.132Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:27.132Z"},
+    "abbrev": "HNC",
+    "name": "Heure Normale du Centre",
+    "offset": -6
+  },
+  {
+    "_id": "a4OntEtDmq",
+    "_created_at": {"$date": "2015-08-13T03:29:27.721Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:27.721Z"},
+    "abbrev": "HAT",
+    "name": "Heure Avancée de Terre-Neuve",
+    "offset": -2.5
+  },
+  {
+    "_id": "aHj10EEQNt",
+    "_created_at": {"$date": "2015-08-13T03:29:28.188Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:28.188Z"},
+    "abbrev": "AEDT",
+    "name": "Australian Eastern Daylight Time",
+    "offset": 11
+  },
+  {
+    "_id": "aZGPHdN9JV",
+    "_created_at": {"$date": "2015-08-13T03:29:27.132Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:27.132Z"},
+    "abbrev": "HLV",
+    "name": "Hora Legal de Venezuela",
+    "offset": -4.5
+  },
+  {
+    "_id": "ahJi5lMReP",
+    "_created_at": {"$date": "2015-08-13T03:29:27.221Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:27.221Z"},
+    "abbrev": "HAE",
+    "name": "Heure Avancée de l'Est",
+    "offset": -4
+  },
+  {
+    "_id": "assZltgVQj",
+    "_created_at": {"$date": "2015-08-13T03:29:26.914Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:26.914Z"},
+    "abbrev": "AKDT",
+    "name": "Alaska Daylight Time",
+    "offset": -8
+  },
+  {
+    "_id": "avpmX1BpWr",
+    "_created_at": {"$date": "2015-08-13T03:29:27.812Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:27.812Z"},
+    "abbrev": "AST",
+    "name": "Arabia Standard Time",
+    "offset": 3
+  },
+  {
+    "_id": "az0p56Yvza",
+    "_created_at": {"$date": "2015-08-13T03:29:27.131Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:27.131Z"},
+    "abbrev": "HAC",
+    "name": "Heure Avancée du Centre",
+    "offset": -5
+  },
+  {
+    "_id": "c1HeaKwm6k",
+    "_created_at": {"$date": "2015-08-13T03:29:26.903Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:26.903Z"},
+    "abbrev": "SST",
+    "name": "Samoa Standard Time",
+    "offset": -11
+  },
+  {
+    "_id": "c2Dw50KQ6I",
+    "_created_at": {"$date": "2015-08-13T03:29:27.813Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:27.813Z"},
+    "abbrev": "WAT",
+    "name": "West Africa Time",
+    "offset": 1
+  },
+  {
+    "_id": "c7hkX9CV49",
+    "_created_at": {"$date": "2015-08-13T03:29:27.721Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:27.721Z"},
+    "abbrev": "AZOT",
+    "name": "Azores Time",
+    "offset": -1
+  },
+  {
+    "_id": "cJAYseDgS7",
+    "_created_at": {"$date": "2015-08-13T03:29:27.130Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:27.130Z"},
+    "abbrev": "PET",
+    "name": "Peru Time",
+    "offset": -5
+  },
+  {
+    "_id": "ccTUOFm5Ny",
+    "_created_at": {"$date": "2015-08-13T03:29:27.998Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:27.998Z"},
+    "abbrev": "MAWT",
+    "name": "Mawson Time",
+    "offset": 5
+  },
+  {
+    "_id": "cezz5ieqs3",
+    "_created_at": {"$date": "2015-08-13T03:29:28.188Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:28.188Z"},
+    "abbrev": "ACST",
+    "name": "Australian Central Standard Time",
+    "offset": 9.5
+  },
+  {
+    "_id": "cu6rKXGiZc",
+    "_created_at": {"$date": "2015-08-13T03:29:27.813Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:27.813Z"},
+    "abbrev": "WT",
+    "name": "Western Sahara Standard Time",
+    "offset": 0
+  },
+  {
+    "_id": "dgzzYil22E",
+    "_created_at": {"$date": "2015-08-13T03:29:27.129Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:27.129Z"},
+    "abbrev": "T",
+    "name": "Tango Time Zone",
+    "offset": -7
+  },
+  {
+    "_id": "dhTobZIkVl",
+    "_created_at": {"$date": "2015-08-13T03:29:27.998Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:27.998Z"},
+    "abbrev": "YEKT",
+    "name": " Yekaterinburg Time",
+    "offset": 6
+  },
+  {
+    "_id": "dqwjkZVGNC",
+    "_created_at": {"$date": "2015-08-13T03:29:27.814Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:27.814Z"},
+    "abbrev": "EAT",
+    "name": "Eastern Africa Time",
+    "offset": 3
+  },
+  {
+    "_id": "dwY9B1kJVR",
+    "_created_at": {"$date": "2015-08-13T03:29:27.155Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:27.155Z"},
+    "abbrev": "GALT",
+    "name": "Galapagos Time",
+    "offset": -6
+  },
+  {
+    "_id": "e8Qkfgiph5",
+    "_created_at": {"$date": "2015-08-13T03:29:26.955Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:26.955Z"},
+    "abbrev": "HNY",
+    "name": "Heure Normale du Yukon",
+    "offset": -9
+  },
+  {
+    "_id": "e909wqOZfH",
+    "_created_at": {"$date": "2015-08-13T03:29:27.221Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:27.221Z"},
+    "abbrev": "EDT",
+    "name": "Eastern Daylight Time",
+    "offset": -4
+  },
+  {
+    "_id": "eFpWWur5TX",
+    "_created_at": {"$date": "2015-08-13T03:29:28.115Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:28.115Z"},
+    "abbrev": "BNT",
+    "name": "Brunei Darussalam Time",
+    "offset": 8
+  },
+  {
+    "_id": "eHGhuOeQAO",
+    "_created_at": {"$date": "2015-08-13T03:29:27.722Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:27.722Z"},
+    "abbrev": "N",
+    "name": "November Time Zone",
+    "offset": -1
+  },
+  {
+    "_id": "eXj4tTg4Jt",
+    "_created_at": {"$date": "2015-08-13T03:29:28.329Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:28.329Z"},
+    "abbrev": "ANAT",
+    "name": "Anadyr Time",
+    "offset": 12
+  },
+  {
+    "_id": "ezyNBIhJEM",
+    "_created_at": {"$date": "2015-08-13T03:29:27.889Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:27.889Z"},
+    "abbrev": "IRST",
+    "name": "Iran Standard Time",
+    "offset": 3.5
+  },
+  {
+    "_id": "fOIzjASorH",
+    "_created_at": {"$date": "2015-08-13T03:29:27.223Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:27.223Z"},
+    "abbrev": "ART",
+    "name": "Argentina Time",
+    "offset": -3
+  },
+  {
+    "_id": "fjuhj0Ym1K",
+    "_created_at": {"$date": "2015-08-13T03:29:26.913Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:26.913Z"},
+    "abbrev": "HNP",
+    "name": "Heure Normale du Pacifique",
+    "offset": -8
+  },
+  {
+    "_id": "gEomaqECuG",
+    "_created_at": {"$date": "2015-08-13T03:29:28.113Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:28.113Z"},
+    "abbrev": "G",
+    "name": "Golf Time Zone",
+    "offset": 7
+  },
+  {
+    "_id": "gFz83LiyIE",
+    "_created_at": {"$date": "2015-08-13T03:29:26.913Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:26.913Z"},
+    "abbrev": "TAHT",
+    "name": "Tahiti Time",
+    "offset": -10
+  },
+  {
+    "_id": "gOaeo6ma0z",
+    "_created_at": {"$date": "2015-08-13T03:29:27.813Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:27.813Z"},
+    "abbrev": "WAST",
+    "name": "West Africa Summer Time",
+    "offset": 2
+  },
+  {
+    "_id": "hSUhJSMGrj",
+    "_created_at": {"$date": "2015-08-13T03:29:27.888Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:27.888Z"},
+    "abbrev": "RET",
+    "name": "Reunion Time",
+    "offset": 4
+  },
+  {
+    "_id": "haPlc4ZRFD",
+    "_created_at": {"$date": "2015-08-13T03:29:27.725Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:27.725Z"},
+    "abbrev": "WET",
+    "name": "Western European Time",
+    "offset": 0
+  },
+  {
+    "_id": "hgwK8hNtgu",
+    "_created_at": {"$date": "2015-08-13T03:29:27.723Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:27.723Z"},
+    "abbrev": "EGST",
+    "name": "Eastern Greenland Summer Time",
+    "offset": 0
+  },
+  {
+    "_id": "hvUOcf8yMR",
+    "_created_at": {"$date": "2015-08-13T03:29:28.330Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:28.330Z"},
+    "abbrev": "MHT",
+    "name": "Marshall Islands Time",
+    "offset": 12
+  },
+  {
+    "_id": "idSKEBnxKJ",
+    "_created_at": {"$date": "2015-08-13T03:29:27.813Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:27.813Z"},
+    "abbrev": "WEST",
+    "name": "Western European Summer Time",
+    "offset": 1
+  },
+  {
+    "_id": "il2XUNOREd",
+    "_created_at": {"$date": "2015-08-13T03:29:28.115Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:28.115Z"},
+    "abbrev": "CST",
+    "name": "China Standard Time",
+    "offset": 8
+  },
+  {
+    "_id": "inqdddpMnQ",
+    "_created_at": {"$date": "2015-08-13T03:29:28.186Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:28.186Z"},
+    "abbrev": "YAKST",
+    "name": "Yakutsk Summer Time",
+    "offset": 10
+  },
+  {
+    "_id": "j4JdUdPB4E",
+    "_created_at": {"$date": "2015-08-13T03:29:27.721Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:27.721Z"},
+    "abbrev": "EGT",
+    "name": "East Greenland Time",
+    "offset": -1
+  },
+  {
+    "_id": "j8M2i5GGKH",
+    "_created_at": {"$date": "2015-08-13T03:29:26.906Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:26.906Z"},
+    "abbrev": "AKST",
+    "name": "Alaska Standard Time",
+    "offset": -9
+  },
+  {
+    "_id": "jbv016cpsw",
+    "_created_at": {"$date": "2015-08-13T03:29:27.999Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:27.999Z"},
+    "abbrev": "BTT",
+    "name": "Bhutan Time",
+    "offset": 6
+  },
+  {
+    "_id": "kJuWXYg259",
+    "_created_at": {"$date": "2015-08-13T03:29:28.187Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:28.187Z"},
+    "abbrev": "ACDT",
+    "name": "Australian Central Daylight Time",
+    "offset": 10.5
+  },
+  {
+    "_id": "kVozZUn7bh",
+    "_created_at": {"$date": "2015-08-13T03:29:27.131Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:27.131Z"},
+    "abbrev": "HNE",
+    "name": "Heure Normale de l'Est",
+    "offset": -5
+  },
+  {
+    "_id": "l0jPxI3A1o",
+    "_created_at": {"$date": "2015-08-13T03:29:27.221Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:27.221Z"},
+    "abbrev": "HNA",
+    "name": "Heure Normale de l'Atlantique",
+    "offset": -4
+  },
+  {
+    "_id": "lNHiJ8Lz8H",
+    "_created_at": {"$date": "2015-08-13T03:29:27.723Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:27.723Z"},
+    "abbrev": "O",
+    "name": "Oscar Time Zone",
+    "offset": -2
+  },
+  {
+    "_id": "lddAOmuFob",
+    "_created_at": {"$date": "2015-08-13T03:29:27.889Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:27.889Z"},
+    "abbrev": "MSD",
+    "name": "Moscow Daylight Time",
+    "offset": 4
+  },
+  {
+    "_id": "luGWj3jRqZ",
+    "_created_at": {"$date": "2015-08-13T03:29:28.002Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:28.002Z"},
+    "abbrev": "MVT",
+    "name": "Maldives Time",
+    "offset": 5
+  },
+  {
+    "_id": "m2EOyk0Big",
+    "_created_at": {"$date": "2015-08-13T03:29:27.131Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:27.131Z"},
+    "abbrev": "HNR",
+    "name": "Heure Normale des Rocheuses",
+    "offset": -7
+  },
+  {
+    "_id": "mKJtENMsqi",
+    "_created_at": {"$date": "2015-08-13T03:29:27.889Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:27.889Z"},
+    "abbrev": "AZT",
+    "name": "Azerbaijan Time",
+    "offset": 4
+  },
+  {
+    "_id": "mpUXCKdCZc",
+    "_created_at": {"$date": "2015-08-13T03:29:26.908Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:26.908Z"},
+    "abbrev": "HADT",
+    "name": "Hawaii-Aleutian Daylight Time",
+    "offset": -9
+  },
+  {
+    "_id": "msCdRMtLK0",
+    "_created_at": {"$date": "2015-08-13T03:29:28.329Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:28.329Z"},
+    "abbrev": "CHAST",
+    "name": "Chatham Island Standard Time",
+    "offset": 12.75
+  },
+  {
+    "_id": "nSLY9f5SKP",
+    "_created_at": {"$date": "2015-08-13T03:29:26.906Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:26.906Z"},
+    "abbrev": "W",
+    "name": "Whiskey Time Zone",
+    "offset": -10
+  },
+  {
+    "_id": "nc1mQmnNuX",
+    "_created_at": {"$date": "2015-08-13T03:29:26.912Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:26.912Z"},
+    "abbrev": "Y",
+    "name": "Yankee Time Zone",
+    "offset": -12
+  },
+  {
+    "_id": "nlOdMoUW1a",
+    "_created_at": {"$date": "2015-08-13T03:29:28.328Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:28.328Z"},
+    "abbrev": "TVT",
+    "name": "Tuvalu Time",
+    "offset": 12
+  },
+  {
+    "_id": "nrHLWFf04E",
+    "_created_at": {"$date": "2015-08-13T03:29:28.116Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:28.116Z"},
+    "abbrev": "ULAT",
+    "name": "Ulaanbaatar Time",
+    "offset": 8
+  },
+  {
+    "_id": "nxa8Yq9LE7",
+    "_created_at": {"$date": "2015-08-13T03:29:28.007Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:28.007Z"},
+    "abbrev": "F",
+    "name": "Foxtrot Time Zone",
+    "offset": 6
+  },
+  {
+    "_id": "o8A6oteETG",
+    "_created_at": {"$date": "2015-08-13T03:29:27.719Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:27.719Z"},
+    "abbrev": "PYST",
+    "name": "Paraguay Summer Time",
+    "offset": -3
+  },
+  {
+    "_id": "o8wEYLByXX",
+    "_created_at": {"$date": "2015-08-13T03:29:28.188Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:28.188Z"},
+    "abbrev": "K",
+    "name": "Kilo Time Zone",
+    "offset": 10
+  },
+  {
+    "_id": "oT31SPu6jg",
+    "_created_at": {"$date": "2015-08-13T03:29:28.328Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:28.328Z"},
+    "abbrev": "MAGT",
+    "name": "Magadan Time",
+    "offset": 12
+  },
+  {
+    "_id": "obNhFT5CD7",
+    "_created_at": {"$date": "2015-08-13T03:29:28.115Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:28.115Z"},
+    "abbrev": "SGT",
+    "name": "Singapore Time",
+    "offset": 8
+  },
+  {
+    "_id": "omy7o9MkfU",
+    "_created_at": {"$date": "2015-08-13T03:29:27.813Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:27.813Z"},
+    "abbrev": "CAT",
+    "name": "Central Africa Time",
+    "offset": 2
+  },
+  {
+    "_id": "p5f7qUfcag",
+    "_created_at": {"$date": "2015-08-13T03:29:28.115Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:28.115Z"},
+    "abbrev": "KRAT",
+    "name": "Krasnoyarsk Time",
+    "offset": 8
+  },
+  {
+    "_id": "pAvf0hUXHJ",
+    "_created_at": {"$date": "2015-08-13T03:29:28.114Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:28.114Z"},
+    "abbrev": "NOVST",
+    "name": "Novosibirsk Summer Time",
+    "offset": 7
+  },
+  {
+    "_id": "pJgG7ePndC",
+    "_created_at": {"$date": "2015-08-13T03:29:27.999Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:27.999Z"},
+    "abbrev": "TJT",
+    "name": "Tajikistan Time",
+    "offset": 5
+  },
+  {
+    "_id": "pgUV7VDXkW",
+    "_created_at": {"$date": "2015-08-13T03:29:26.909Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:26.909Z"},
+    "abbrev": "V",
+    "name": "Victor Time Zone",
+    "offset": -9
+  },
+  {
+    "_id": "q77OilHQ9p",
+    "_created_at": {"$date": "2015-08-13T03:29:28.007Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:28.007Z"},
+    "abbrev": "IOT",
+    "name": "Indian Chagos Time",
+    "offset": 6
+  },
+  {
+    "_id": "qG9hN5TCMH",
+    "_created_at": {"$date": "2015-08-13T03:29:28.329Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:28.329Z"},
+    "abbrev": "SBT",
+    "name": "Solomon IslandsTime",
+    "offset": 11
+  },
+  {
+    "_id": "qLRrW0Z366",
+    "_created_at": {"$date": "2015-08-13T03:29:27.221Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:27.221Z"},
+    "abbrev": "FKST",
+    "name": "Falkland Islands Summer Time",
+    "offset": -3
+  },
+  {
+    "_id": "qgrry8nssQ",
+    "_created_at": {"$date": "2015-08-13T03:29:27.222Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:27.222Z"},
+    "abbrev": "CLST",
+    "name": "Chile Summer Time",
+    "offset": -3
+  },
+  {
+    "_id": "qnMIMoz58R",
+    "_created_at": {"$date": "2015-08-13T03:29:27.222Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:27.222Z"},
+    "abbrev": "GFT",
+    "name": "French Guiana Time",
+    "offset": -3
+  },
+  {
+    "_id": "qp1JnuzUdR",
+    "_created_at": {"$date": "2015-08-13T03:29:27.223Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:27.223Z"},
+    "abbrev": "FKT",
+    "name": "Falkland Island Time",
+    "offset": -4
+  },
+  {
+    "_id": "rFtezvAhRN",
+    "_created_at": {"$date": "2015-08-13T03:29:28.115Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:28.115Z"},
+    "abbrev": "MYT",
+    "name": "Malaysia Time",
+    "offset": 8
+  },
+  {
+    "_id": "sK65IDwcdz",
+    "_created_at": {"$date": "2015-08-13T03:29:27.887Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:27.887Z"},
+    "abbrev": "MUT",
+    "name": "Mauritius Time",
+    "offset": 4
+  },
+  {
+    "_id": "saE7yZ6Ne2",
+    "_created_at": {"$date": "2015-08-13T03:29:27.999Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:27.999Z"},
+    "abbrev": "MMT",
+    "name": "Myanmar Time",
+    "offset": 6.5
+  },
+  {
+    "_id": "sfZ0vq23Le",
+    "_created_at": {"$date": "2015-08-13T03:29:28.115Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:28.115Z"},
+    "abbrev": "ICT",
+    "name": "Indochina Time",
+    "offset": 7
+  },
+  {
+    "_id": "tLgMiy2MsQ",
+    "_created_at": {"$date": "2015-08-13T03:29:26.908Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:26.908Z"},
+    "abbrev": "MART",
+    "name": "Marquesas Time",
+    "offset": -9.5
+  },
+  {
+    "_id": "tbedNv9oh3",
+    "_created_at": {"$date": "2015-08-13T03:29:28.186Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:28.186Z"},
+    "abbrev": "I",
+    "name": "India Time Zone",
+    "offset": 9
+  },
+  {
+    "_id": "tfJ1DmAXf2",
+    "_created_at": {"$date": "2015-08-13T03:29:28.007Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:28.007Z"},
+    "abbrev": "KGT",
+    "name": "Kyrgyzstan Time",
+    "offset": 6
+  },
+  {
+    "_id": "tqNWgtZQ7P",
+    "_created_at": {"$date": "2015-08-13T03:29:28.186Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:28.186Z"},
+    "abbrev": "PWT",
+    "name": "Palau Time",
+    "offset": 9
+  },
+  {
+    "_id": "tuqt13Dnp2",
+    "_created_at": {"$date": "2015-08-13T03:29:27.131Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:27.131Z"},
+    "abbrev": "EASST",
+    "name": "Easter Island Summer Time",
+    "offset": -5
+  },
+  {
+    "_id": "uFM4M0y8hV",
+    "_created_at": {"$date": "2015-08-13T03:29:28.329Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:28.329Z"},
+    "abbrev": "VUT",
+    "name": "Vanuatu Time",
+    "offset": 11
+  },
+  {
+    "_id": "uJaewxUFhZ",
+    "_created_at": {"$date": "2015-08-13T03:29:28.002Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:28.002Z"},
+    "abbrev": "DAVT",
+    "name": "Davis Time",
+    "offset": 7
+  },
+  {
+    "_id": "uK2v9tVDU1",
+    "_created_at": {"$date": "2015-08-13T03:29:27.888Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:27.888Z"},
+    "abbrev": "SCT",
+    "name": "Seychelles Time",
+    "offset": 4
+  },
+  {
+    "_id": "uPC4eWWJvp",
+    "_created_at": {"$date": "2015-08-13T03:29:26.912Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:26.912Z"},
+    "abbrev": "PT",
+    "name": "Tiempo del Pacífico",
+    "offset": -8
+  },
+  {
+    "_id": "uldKtncKzn",
+    "_created_at": {"$date": "2015-08-13T03:29:27.888Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:27.888Z"},
+    "abbrev": "SAMT",
+    "name": "Samara Time",
+    "offset": 4
+  },
+  {
+    "_id": "ut59oVcaJx",
+    "_created_at": {"$date": "2015-08-13T03:29:27.723Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:27.723Z"},
+    "abbrev": "FNT",
+    "name": "Fernando de Noronha Time",
+    "offset": -2
+  },
+  {
+    "_id": "vyVdtL9AbW",
+    "_created_at": {"$date": "2015-08-13T03:29:27.220Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:27.220Z"},
+    "abbrev": "BOT",
+    "name": "Bolivia Time",
+    "offset": -4
+  },
+  {
+    "_id": "wIIWSMYuDr",
+    "_created_at": {"$date": "2015-08-13T03:29:28.113Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:28.113Z"},
+    "abbrev": "HOVT",
+    "name": "Hovd Time",
+    "offset": 7
+  },
+  {
+    "_id": "wT3Zb9V6cV",
+    "_created_at": {"$date": "2015-08-13T03:29:27.126Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:27.126Z"},
+    "abbrev": "ET",
+    "name": "Tiempo del Este",
+    "offset": -5
+  },
+  {
+    "_id": "wsrO37kg0C",
+    "_created_at": {"$date": "2015-08-13T03:29:27.999Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:27.999Z"},
+    "abbrev": "CCT",
+    "name": "Cocos Islands Time",
+    "offset": 6.5
+  },
+  {
+    "_id": "x2AWJfAVRL",
+    "_created_at": {"$date": "2015-08-13T03:29:26.912Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:26.912Z"},
+    "abbrev": "HAY",
+    "name": "Heure Avancée du Yukon",
+    "offset": -8
+  },
+  {
+    "_id": "xIcT4qCBcT",
+    "_created_at": {"$date": "2015-08-13T03:29:28.328Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:28.328Z"},
+    "abbrev": "VLAST",
+    "name": "Vladivostok Summer Time",
+    "offset": 11
+  },
+  {
+    "_id": "xSPZrTruu2",
+    "_created_at": {"$date": "2015-08-13T03:29:28.598Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:28.598Z"},
+    "abbrev": "TKT",
+    "name": "Tokelau Time",
+    "offset": 13
+  },
+  {
+    "_id": "xfC8ms3q9N",
+    "_created_at": {"$date": "2015-08-13T03:29:27.813Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:27.813Z"},
+    "abbrev": "MEZ",
+    "name": "Mitteleuropäische Zeit",
+    "offset": 1
+  },
+  {
+    "_id": "xi92FH66ty",
+    "_created_at": {"$date": "2015-08-13T03:29:28.598Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:28.598Z"},
+    "abbrev": "PHOT",
+    "name": "Phoenix Island Time",
+    "offset": 13
+  },
+  {
+    "_id": "yAfAZnOZ5U",
+    "_created_at": {"$date": "2015-08-13T03:29:28.188Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:28.188Z"},
+    "abbrev": "L",
+    "name": "Lima Time Zone",
+    "offset": 11
+  },
+  {
+    "_id": "yEUd2qVv1E",
+    "_created_at": {"$date": "2015-08-13T03:29:28.187Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:28.187Z"},
+    "abbrev": "YAPT",
+    "name": "Yap Time",
+    "offset": 10
+  },
+  {
+    "_id": "yMdGU6PUix",
+    "_created_at": {"$date": "2015-08-13T03:29:28.597Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:28.597Z"},
+    "abbrev": "LINT",
+    "name": "Line Islands Time",
+    "offset": 14
+  },
+  {
+    "_id": "yUTeL0bYXs",
+    "_created_at": {"$date": "2015-08-13T03:29:27.130Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:27.130Z"},
+    "abbrev": "PDT",
+    "name": "Pacific Daylight Time",
+    "offset": -7
+  },
+  {
+    "_id": "ycEMm3p1H6",
+    "_created_at": {"$date": "2015-08-13T03:29:27.723Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:27.723Z"},
+    "abbrev": "BRST",
+    "name": "Brasilia Summer Time",
+    "offset": -2
+  },
+  {
+    "_id": "zCzdFChNlt",
+    "_created_at": {"$date": "2015-08-13T03:29:28.006Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:28.006Z"},
+    "abbrev": "NPT",
+    "name": "Nepal Time",
+    "offset": 5.75
+  },
+  {
+    "_id": "zbTSd9FCqM",
+    "_created_at": {"$date": "2015-08-13T03:29:27.890Z"},
+    "_updated_at": {"$date": "2015-08-13T03:29:27.890Z"},
+    "abbrev": "GST",
+    "name": "Gulf Standard Time",
+    "offset": 4
+  }
+]

@@ -1,0 +1,250 @@
+[
+  {
+    "_id": "AE3MP6McfF",
+    "_created_at": {"$date": "2019-09-19T09:44:44.398Z"},
+    "_p_typologyGeneratorType": "TypologyGeneratorType$my5j3Z4OMq",
+    "_updated_at": {"$date": "2019-09-19T09:44:44.398Z"},
+    "code": "001",
+    "name": "Author"
+  },
+  {
+    "_id": "gEK9pl5mTA",
+    "_created_at": {"$date": "2019-09-19T09:45:03.663Z"},
+    "_p_typologyGeneratorType": "TypologyGeneratorType$my5j3Z4OMq",
+    "_updated_at": {"$date": "2019-09-19T09:45:03.663Z"},
+    "code": "002",
+    "name": "Re-Post"
+  },
+  {
+    "_id": "ccejipOQyM",
+    "_created_at": {"$date": "2019-09-19T09:45:15.695Z"},
+    "_p_typologyGeneratorType": "TypologyGeneratorType$my5j3Z4OMq",
+    "_updated_at": {"$date": "2019-09-19T09:45:15.695Z"},
+    "code": "003",
+    "name": "Re-Publish"
+  },
+  {
+    "_id": "8B3BmUGgTX",
+    "_created_at": {"$date": "2019-09-19T09:45:35.470Z"},
+    "_p_typologyGeneratorType": "TypologyGeneratorType$yRyX7fRY2N",
+    "_updated_at": {"$date": "2019-09-19T09:45:35.470Z"},
+    "code": "001",
+    "name": "Active -ve"
+  },
+  {
+    "_id": "tCG4aIl6GN",
+    "_created_at": {"$date": "2019-09-19T09:46:14.733Z"},
+    "_p_typologyGeneratorType": "TypologyGeneratorType$yRyX7fRY2N",
+    "_updated_at": {"$date": "2019-09-19T09:46:14.733Z"},
+    "code": "002",
+    "name": "Active +ve"
+  },
+  {
+    "_id": "Q8i7NYTFDp",
+    "_created_at": {"$date": "2019-09-19T09:46:26.240Z"},
+    "_p_typologyGeneratorType": "TypologyGeneratorType$yRyX7fRY2N",
+    "_updated_at": {"$date": "2019-09-19T09:46:26.240Z"},
+    "code": "003",
+    "name": "Neutral"
+  },
+  {
+    "_id": "4eiXyLHdjH",
+    "_created_at": {"$date": "2019-09-19T09:46:37.496Z"},
+    "_p_typologyGeneratorType": "TypologyGeneratorType$yRyX7fRY2N",
+    "_updated_at": {"$date": "2019-09-19T09:46:37.496Z"},
+    "code": "004",
+    "name": "Passive -ve"
+  },
+  {
+    "_id": "HbUTlDdFgy",
+    "_created_at": {"$date": "2019-09-19T09:46:55.204Z"},
+    "_p_typologyGeneratorType": "TypologyGeneratorType$yRyX7fRY2N",
+    "_updated_at": {"$date": "2019-09-19T09:46:55.204Z"},
+    "code": "005",
+    "name": "Passive +ve"
+  },
+  {
+    "_id": "0mlYzoBV8C",
+    "_created_at": {"$date": "2019-09-19T09:47:32.641Z"},
+    "_p_typologyGeneratorType": "TypologyGeneratorType$yXqVlnpcR5",
+    "_updated_at": {"$date": "2019-09-19T09:47:32.641Z"},
+    "code": "001",
+    "name": "Minor"
+  },
+  {
+    "_id": "iYU51Dkk24",
+    "_created_at": {"$date": "2019-09-19T09:47:53.992Z"},
+    "_p_typologyGeneratorType": "TypologyGeneratorType$yXqVlnpcR5",
+    "_updated_at": {"$date": "2019-09-19T09:47:53.992Z"},
+    "code": "002",
+    "name": "Moderate"
+  },
+  {
+    "_id": "OZnb2dUaMW",
+    "_created_at": {"$date": "2019-09-19T09:48:02.457Z"},
+    "_p_typologyGeneratorType": "TypologyGeneratorType$yXqVlnpcR5",
+    "_updated_at": {"$date": "2019-09-19T09:48:02.457Z"},
+    "code": "003",
+    "name": "None"
+  },
+  {
+    "_id": "WdQN5Zlul2",
+    "_created_at": {"$date": "2019-09-19T09:48:13.734Z"},
+    "_p_typologyGeneratorType": "TypologyGeneratorType$yXqVlnpcR5",
+    "_updated_at": {"$date": "2019-09-19T09:48:13.734Z"},
+    "code": "004",
+    "name": "Strong"
+  },
+  {
+    "_id": "jC7hXFcOio",
+    "_created_at": {"$date": "2019-09-19T09:48:29.767Z"},
+    "_p_typologyGeneratorType": "TypologyGeneratorType$hafpu9zJHR",
+    "_updated_at": {"$date": "2019-09-19T09:48:29.767Z"},
+    "code": "001",
+    "name": "Academic"
+  },
+  {
+    "_id": "3qD00DzvZT",
+    "_created_at": {"$date": "2019-09-19T09:48:42.930Z"},
+    "_p_typologyGeneratorType": "TypologyGeneratorType$hafpu9zJHR",
+    "_updated_at": {"$date": "2019-09-19T09:48:42.930Z"},
+    "code": "002",
+    "name": "Conversational"
+  },
+  {
+    "_id": "7rA9uHOqKs",
+    "_created_at": {"$date": "2019-09-19T09:48:56.830Z"},
+    "_p_typologyGeneratorType": "TypologyGeneratorType$hafpu9zJHR",
+    "_updated_at": {"$date": "2019-09-19T09:48:56.830Z"},
+    "code": "003",
+    "name": "Factual"
+  },
+  {
+    "_id": "dzYHgLLfN0",
+    "_created_at": {"$date": "2019-09-19T09:49:10.746Z"},
+    "_p_typologyGeneratorType": "TypologyGeneratorType$hafpu9zJHR",
+    "_updated_at": {"$date": "2019-09-19T09:49:10.746Z"},
+    "code": "004",
+    "name": "List"
+  },
+  {
+    "_id": "fH698kEnHz",
+    "_created_at": {"$date": "2019-09-19T09:49:22.954Z"},
+    "_p_typologyGeneratorType": "TypologyGeneratorType$hafpu9zJHR",
+    "_updated_at": {"$date": "2019-09-19T09:49:22.954Z"},
+    "code": "005",
+    "name": "Update"
+  },
+  {
+    "_id": "ggwLmBBx4h",
+    "_created_at": {"$date": "2019-09-19T09:51:45.300Z"},
+    "_p_typologyGeneratorType": "TypologyGeneratorType$Ea1yUgOZR1",
+    "_updated_at": {"$date": "2019-09-19T09:51:45.300Z"},
+    "code": "00",
+    "name": "None"
+  },
+  {
+    "_id": "oANrMecvN3",
+    "_created_at": {"$date": "2019-09-19T09:52:07.600Z"},
+    "_p_typologyGeneratorType": "TypologyGeneratorType$Ea1yUgOZR1",
+    "_updated_at": {"$date": "2019-09-19T09:52:07.600Z"},
+    "code": "01",
+    "name": "Part 1"
+  },
+  {
+    "_id": "G76B7xtvTw",
+    "_created_at": {"$date": "2019-09-19T09:52:19.493Z"},
+    "_p_typologyGeneratorType": "TypologyGeneratorType$Ea1yUgOZR1",
+    "_updated_at": {"$date": "2019-09-19T09:52:19.493Z"},
+    "code": "02",
+    "name": "Part 2"
+  },
+  {
+    "_id": "lBu734m5iv",
+    "_created_at": {"$date": "2019-09-19T09:52:26.874Z"},
+    "_p_typologyGeneratorType": "TypologyGeneratorType$Ea1yUgOZR1",
+    "_updated_at": {"$date": "2019-09-19T09:52:26.874Z"},
+    "code": "03",
+    "name": "Part 3"
+  },
+  {
+    "_id": "jdY2sIhV1g",
+    "_created_at": {"$date": "2019-09-19T09:52:34.801Z"},
+    "_p_typologyGeneratorType": "TypologyGeneratorType$Ea1yUgOZR1",
+    "_updated_at": {"$date": "2019-09-19T09:52:34.801Z"},
+    "code": "04",
+    "name": "Part 4"
+  },
+  {
+    "_id": "92EbNJbmMR",
+    "_created_at": {"$date": "2019-09-19T09:52:46.762Z"},
+    "_p_typologyGeneratorType": "TypologyGeneratorType$mUYRZNwphC",
+    "_updated_at": {"$date": "2019-09-19T09:52:46.762Z"},
+    "code": "01",
+    "name": "Article"
+  },
+  {
+    "_id": "AjSagMgaW7",
+    "_created_at": {"$date": "2019-09-19T09:52:58.782Z"},
+    "_p_typologyGeneratorType": "TypologyGeneratorType$mUYRZNwphC",
+    "_updated_at": {"$date": "2019-09-19T09:52:58.782Z"},
+    "code": "02",
+    "name": "Image"
+  },
+  {
+    "_id": "CaQSVHF8ee",
+    "_created_at": {"$date": "2019-09-19T09:53:05.222Z"},
+    "_p_typologyGeneratorType": "TypologyGeneratorType$mUYRZNwphC",
+    "_updated_at": {"$date": "2019-09-19T09:53:05.222Z"},
+    "code": "03",
+    "name": "Video"
+  },
+  {
+    "_id": "m7WOSDgAYE",
+    "_created_at": {"$date": "2019-11-04T05:51:53.052Z"},
+    "_p_typologyGeneratorType": "TypologyGeneratorType$mUYRZNwphC",
+    "_updated_at": {"$date": "2019-11-04T05:51:53.052Z"},
+    "code": "04",
+    "name": "GIF"
+  },
+  {
+    "_id": "zZWe4qtPCQ",
+    "_created_at": {"$date": "2019-11-13T06:34:48.948Z"},
+    "_p_typologyGeneratorType": "TypologyGeneratorType$Ea1yUgOZR1",
+    "_updated_at": {"$date": "2019-11-13T06:34:48.948Z"},
+    "code": "05",
+    "name": "Part 5"
+  },
+  {
+    "_id": "HVW3yDzB6A",
+    "_created_at": {"$date": "2020-01-10T00:33:08.312Z"},
+    "_p_typologyGeneratorType": "TypologyGeneratorType$hafpu9zJHR",
+    "_updated_at": {"$date": "2020-01-10T00:33:08.312Z"},
+    "code": "006",
+    "name": "Motivational"
+  },
+  {
+    "_id": "qGrwGEKGTo",
+    "_created_at": {"$date": "2020-01-10T00:33:26.594Z"},
+    "_p_typologyGeneratorType": "TypologyGeneratorType$hafpu9zJHR",
+    "_updated_at": {"$date": "2020-01-10T00:33:26.594Z"},
+    "code": "007",
+    "name": "Infographic"
+  },
+  {
+    "_id": "I9W7orxmCY",
+    "_created_at": {"$date": "2020-06-15T04:41:46.231Z"},
+    "_p_typologyGeneratorType": "TypologyGeneratorType$mUYRZNwphC",
+    "_updated_at": {"$date": "2020-06-15T04:41:46.231Z"},
+    "code": "05",
+    "name": "Recipe"
+  },
+  {
+    "_id": "uWAdJLljXF",
+    "_created_at": {"$date": "2020-07-20T05:40:43.650Z"},
+    "_p_typologyGeneratorType": "TypologyGeneratorType$hafpu9zJHR",
+    "_updated_at": {"$date": "2020-07-20T05:40:43.650Z"},
+    "code": "008",
+    "name": "Instructional"
+  }
+]
