@@ -12,7 +12,7 @@ RUN npm install
 
 WORKDIR cloud_code
 RUN npm install
-RUN ./node_modules/.bin/gulp copy-theme --theme WELLTEQ
+RUN ./node_modules/.bin/gulp copy-theme --theme DBS
 RUN ./node_modules/.bin/gulp switch-env --env DBS
 
 WORKDIR public/client
