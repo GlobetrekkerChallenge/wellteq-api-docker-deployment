@@ -5,3 +5,5 @@
 **/bootstrap-generated/
 **/build/
 **/out/
+/src/docker/wellteq-api/wellteq-api.zip
+/src/docker/mautic-3/mautic.zip
