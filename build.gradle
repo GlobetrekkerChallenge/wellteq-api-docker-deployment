@@ -56,6 +56,14 @@ bootstrapLoader {
                     buildFileDependency 'src/docker/wellteq-api/wellteq-api.zip'
                 }
                 generalDockerConfiguration {
+                    taskGroup = 'docker - wellteq-android-app-build'
+                    taskPrefix = 'appBuild'
+                    imageGroup = 'wellteq-public'
+                    imageName = 'wellteq-android-app-build'
+                    pushImageWithProjectPublish = true
+                    standaloneDockerImageFilePath = 'src/docker/wellteq-app-build/Dockerfile'
+                }
+                generalDockerConfiguration {
                     taskGroup = 'docker - wellteq-survey-api'
                     taskPrefix = 'wellteqSurveyApi'
                     imageGroup = 'wellteq-public'
