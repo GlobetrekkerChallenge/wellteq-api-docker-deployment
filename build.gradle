@@ -1,6 +1,6 @@
 bootstrapLoader {
     brightsparkBootstrap {
-        projectVersion = '1.0.23'
+        projectVersion = '1.0.40'
         projectGroup = 'com.wellteq.deployment.api'
         bootstrapPlugins {
             javaGradlePlugin {
@@ -56,6 +56,14 @@ bootstrapLoader {
                     buildFileDependency 'src/docker/wellteq-api/wellteq-api.zip'
                 }
                 generalDockerConfiguration {
+                    taskGroup = 'docker - wellteq-android-app-build'
+                    taskPrefix = 'appBuild'
+                    imageGroup = 'wellteq-public'
+                    imageName = 'wellteq-android-app-build'
+                    pushImageWithProjectPublish = true
+                    standaloneDockerImageFilePath = 'src/docker/wellteq-app-build/Dockerfile'
+                }
+                generalDockerConfiguration {
                     taskGroup = 'docker - wellteq-survey-api'
                     taskPrefix = 'wellteqSurveyApi'
                     imageGroup = 'wellteq-public'
@@ -90,6 +98,29 @@ bootstrapLoader {
                     pushImageWithProjectPublish = true
                     standaloneDockerImageFilePath = 'src/docker/wellteq-feed-api/Dockerfile'
                     buildFileDependency 'src/docker/wellteq-feed-api/feed-api.zip'
+                }
+                generalDockerConfiguration {
+                    taskGroup = 'docker - mautic-mail-server'
+                    taskPrefix = 'mautic-mail-server'
+                    imageGroup = 'wellteq-public'
+                    imageName = 'mautic-mail-server'
+                    pushImageWithProjectPublish = true
+                    standaloneDockerImageFilePath = 'src/docker/mautic-3/Dockerfile'
+                    buildFileDependency 'src/docker/mautic-3/docker-entrypoint.sh'
+                    buildFileDependency 'src/docker/mautic-3/makeconfig.php'
+                    buildFileDependency 'src/docker/mautic-3/makedb.php'
+                    buildFileDependency 'src/docker/mautic-3/mautic.crontab'
+                    buildFileDependency 'src/docker/mautic-3/www.conf'
+                    buildFileDependency 'src/docker/mautic-3/mautic.zip'
+                }
+                generalDockerConfiguration {
+                    taskGroup = 'docker - build-mautic'
+                    taskPrefix = 'build-mautic'
+                    imageGroup = 'wellteq-public'
+                    imageName = 'mautic-build-helper'
+                    pushImageWithProjectPublish = true
+                    standaloneDockerImageFilePath = 'src/docker/build-mautic/Dockerfile'
+                    buildFileDependency 'src/docker/build-mautic/docker-entrypoint.sh'
                 }
             }
         }
