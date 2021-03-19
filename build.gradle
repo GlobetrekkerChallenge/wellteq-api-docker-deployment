@@ -1,6 +1,6 @@
 bootstrapLoader {
     brightsparkBootstrap {
-        projectVersion = '1.0.45'
+        projectVersion = '1.0.51'
         projectGroup = 'com.wellteq.deployment.api'
         bootstrapPlugins {
             javaGradlePlugin {
